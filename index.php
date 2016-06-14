@@ -1008,7 +1008,7 @@ That here with Mum is your very proud Dad.</p>
                             <br>
                         </fieldset>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6"> 
                         <fieldset>
                             <!--<textarea  " input name="message" cols="40" rows="20" type="text" id="message"placeholder="Type your message herevalue="<?php echo htmlspecialchars($_POST['message']);?>"></textarea>-->
 							<textarea  placeholder="Type your message here" name="message" cols="40" rows="20" id="message" value="<?php echo htmlspecialchars($_POST['message']);?>"></textarea>
